@@ -2,6 +2,18 @@
 
 Hello and welcome to ControlEasyRAT! With this tool you can control your computers within the local network. I'm looking forward to add discord bot support soon so this can be accessed outside of your local network too! THIS PROGRAM IS NOT MADE FOR MALICIOUS INTENTS.
 
+
+# Use
+1. Go to the Server tab and run the server.py and console.py.
+2. Now after you started the Server open client/c++_rat/Debug/run_me.bat on the computer you want to control.
+3. After that go back to your main computer and type in help in console.py to see the commands you can use.
+4. Enjoy!
+
+# Requirements
+1. Python 3.9+
+2. Basic knowledge about computers/HTTP/terminal and how a RAT works
+3. A functional brain
+
 # Legal
 I'm not responsible for the malicious use in my programs. This program is based for educational purposes only.
 
