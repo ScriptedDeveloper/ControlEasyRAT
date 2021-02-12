@@ -8,6 +8,7 @@ Hello and welcome to ControlEasyRAT! With this tool you can control your compute
 2. Now after you started the Server open client/c++_rat/Debug/run_me.bat on the computer you want to control.
 3. After that go back to your main computer and type in help in console.py to see the commands you can use.
 4. Enjoy!
+(For problems please contact me via GitHub)
 
 # Requirements
 1. Python 3.9+
