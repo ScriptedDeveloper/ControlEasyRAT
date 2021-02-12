@@ -4,3 +4,8 @@ Hello and welcome to ControlEasyRAT! With this tool you can control your compute
 
 # Legal
 I'm not responsible for the malicious use in my programs. This program is based for educational purposes only.
+
+
+# Donate
+Feel free to send some BTC to me to show some support! :) 
+BTC: 16K3B9KoBw4raq7W3W5kDqruKEcaECvK2Y
