@@ -2,7 +2,7 @@
 
 Hello and welcome to ControlEasyRAT! With this tool you can control your computers within the local network. I'm looking forward to add discord bot support soon so this can be accessed outside of your local network too! THIS PROGRAM IS NOT MADE FOR MALICIOUS INTENTS.
 
-# Also, this is a beginner project. More projects coming out soon once ready.
+# Also, this is a beginner project. More projects are coming out soon once ready.
 
 
 # Use
